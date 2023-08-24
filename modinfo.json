@@ -1,0 +1,18 @@
+{
+	"name": "Beer-Man's Striped Giant",
+	"description": "This is the Striped Giant example mod for Beer-Man_606 !!!",
+	"changeNote": "Version 1.0.0\n\n-Added Striped Giants (Normal and White)\n-Added Gray Variant\n-Added Pets",
+	"author": "Emu Dagny",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "3025239682",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "StripedGiant",
+	"revisionNumber": 516176,
+	"snapshotId": 37797,
+	"fileSize": 53254473
+}
